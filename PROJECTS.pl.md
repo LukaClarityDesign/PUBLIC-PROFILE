@@ -1,12 +1,12 @@
 # Wybrane projekty i inicjatywy
 
-L.C.D. skupia projekty na różnych etapach: koncepcje, prototypy, eksperymenty i aktywny rozwój. Ta strona jest selektywnym, publicznym przeglądem, a nie pełnym wewnętrznym rejestrem projektów.
+L.C.D. skupia niezależne projekty na różnych etapach rozwoju. To selektywny, publiczny przegląd, a nie pełny wewnętrzny rejestr projektów.
 
 ## WORKERCHECK.BE
 
 **Strona internetowa:** [https://workercheck.be](https://workercheck.be)
 
-Aktywny projekt z publiczną stroną internetową, którego celem jest pomaganie pracownikom w Belgii w rozumieniu pasków wypłat i składników wynagrodzenia. Aplikacja webowa udostępnia wersję MVP do wstępnej analizy dokumentów płacowych i wskazywania pozycji wymagających uwagi. Obsługuje języki polski, niderlandzki, angielski, ukraiński i rumuński.
+Projekt pomagający pracownikom w Belgii rozumieć paski wypłat i składniki wynagrodzenia. Aplikacja webowa udostępnia wersję MVP do wstępnej analizy dokumentów płacowych i wskazywania pozycji wymagających uwagi. Obsługuje języki polski, niderlandzki, angielski, ukraiński i rumuński.
 
 Projekt łączy analizę dokumentów z uporządkowaną weryfikacją względem właściwych belgijskich przepisów dotyczących pracy i płac. Wnioski prawne wymagają identyfikowalnych, wiarygodnych danych źródłowych oraz jawnego traktowania niepewności.
 
@@ -14,26 +14,20 @@ Projekt łączy analizę dokumentów z uporządkowaną weryfikacją względem w�
 
 ## Application Audit Framework (AAF)
 
-Projekt frameworka do uporządkowanego audytowania aplikacji, powtarzalnych kontroli i oceny jakości oraz zachowania oprogramowania opartej na dowodach.
+Projekt eksploracyjny dotyczący uporządkowanych audytów aplikacji, oceny jakości opartej na dowodach i powtarzalnych kontroli technicznych.
 
-**Status:** prototyp i prace nad metodologią. Nie jest przedstawiany jako zatwierdzony do produkcji standard ani certyfikowany produkt.
+Masz aplikację, produkt lub pomysł, którego jakość i działanie warto sprawdzić? **Porozmawiajmy.**
+
+**Status:** badania, rozwój metodologii i prace prototypowe. Projekt nie jest przedstawiany jako gotowy produkt, certyfikowany standard ani usługa zatwierdzona do zastosowań produkcyjnych.
 
 ## Departament IV bis
 
-Koncepcja gry łączącej urban fantasy ze stylizowaną, industrialną atmosferą. Godot był rozważany jako możliwy silnik do prototypowania.
+Autorski świat urban fantasy ze stylizowaną, industrialną atmosferą. Obecne prace koncentrują się na konstrukcji świata: rozwijaniu jego realiów, atmosfery, tematów i wewnętrznej logiki.
 
-**Status:** koncepcja / rozwój kreatywny.
-
-## IS(M) Burning Boyz
-
-Niezależny projekt muzyczny rozwijający autorski kierunek **METAL POLO** — połączenie elementów heavy i industrial metalu z taneczną rytmiką, elektroniką i chwytliwymi melodiami.
-
-**Status:** projekt kreatywny w toku.
-
-## Prace kreatywne i eksperymentalne
-
-L.C.D. rozwija również mniejsze koncepcje cyfrowe i kreatywne. Nie są one tutaj wymieniane w całości; wewnętrzne plany, prywatne eksperymenty i szczegóły operacyjne pozostają niepubliczne.
+**Status:** faza konstrukcji świata. Projekt nie jest przedstawiany jako wydana gra ani grywalny produkt.
 
 ---
 
-Opisy projektów są celowo zwięzłe. Oznaczenia statusu odróżniają koncepcje i prototypy od gotowych produktów. Nie należy zakładać, że którykolwiek projekt jest dostępny komercyjnie lub gotowy do wdrożenia produkcyjnego, jeśli nie zostało to wyraźnie stwierdzone i niezależnie potwierdzone.
+Pozostałe prywatne inicjatywy, w tym projekty będące w aktywnym rozwoju, celowo nie są tutaj wymieniane. Ta publiczna strona nie stanowi pełnego portfolio L.C.D.
+
+Opisy projektów ograniczają się do informacji, które można przedstawić rzetelnie. Koncepcji i projektów eksploracyjnych nie należy utożsamiać z ukończonymi lub komercyjnie dostępnymi produktami.
