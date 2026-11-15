@@ -4,42 +4,46 @@
 
 Luka Clarity Design is an independent digital design and product-development brand founded by **Bartosz Luka**.
 
-## Featured project: WORKERCHECK.BE
+We bring together digital design, UX/UI thinking, visual communication and exploratory product development under one guiding idea: making complex things clear, useful and intuitive.
 
-<https://workercheck.be>
+> Hi, I’m Luka. In UX/UI and graphic design, clarity is everything—and since my name traces back to “light,” Luka Clarity Design is built on a simple promise: illuminating complex ideas and turning them into clean, intuitive user experiences.
 
-**A live Belgian payslip-analysis project by L.C.D.**
+## What L.C.D. stands for
 
-WORKERCHECK.BE helps workers in Belgium understand their payslips and identify entries that may need attention. Its web application provides an MVP for screening pay documents, with support for Polish, Dutch, English, Ukrainian and Romanian.
+- **Digital design & UX/UI** — shaping clear, coherent and useful digital experiences.
+- **Visual communication** — turning ideas and information into understandable visual systems.
+- **Product thinking** — connecting user needs, purpose and practical implementation.
+- **Technology & experimentation** — exploring thoughtful applications of software, automation and AI.
 
-The project combines document analysis with structured checks against relevant Belgian employment and payroll rules. Its purpose is to make complex pay information easier to understand while clearly distinguishing verified findings from items that need further review.
-
-**Current status:** public website live; application at MVP / release-candidate stage. It is not presented as a certified payroll-compliance engine or a substitute for professional legal or payroll advice.
-
-[**Visit WORKERCHECK.BE →**](https://workercheck.be)
-
----
-
-## About L.C.D.
-
-Hi, I’m Luka. In UX/UI and graphic design, clarity is everything—and since my name traces back to “light,” Luka Clarity Design is built on a simple promise: illuminating complex ideas and turning them into clean, intuitive user experiences.
-
-L.C.D. brings together digital design, UX/UI thinking, visual communication and exploratory product work under one guiding idea: clarity.
-
-## What guides the work
+## Our approach
 
 - **Clarity first** — make information and interactions easier to understand.
 - **Purposeful design** — every element should serve a clear function.
 - **Coherent systems** — build experiences that work as a whole, not as disconnected screens.
 - **Responsible technology** — use technology and AI deliberately, with attention to usefulness, reliability and human oversight.
 
-## Other selected initiatives
+## Projects and initiatives
 
-L.C.D. also develops creative, digital and experimental initiatives. See [Selected Projects](PROJECTS.md) for a concise overview and their current stages.
+L.C.D. is the parent brand for a portfolio of independent digital, technical and creative initiatives. Each project has its own purpose, audience and stage of development.
 
-## Design principle
+- **WORKERCHECK.BE** — a live Belgian payslip-analysis project: [workercheck.be](https://workercheck.be).
+- **Application Audit Framework (AAF)** — a project exploring structured application audits and evidence-based quality assessment.
+- **IS(M) Burning Boyz** — an independent music and creative identity project.
+- **Departament IV bis** — an original urban-fantasy game concept.
 
-Read the [UI-to-UX Design Principle](UI-TO-UX-DESIGN-PRINCIPLE.md): interface design should support the complete user experience, not exist as decoration or a collection of screens.
+These initiatives demonstrate the range of L.C.D.'s interests. Their inclusion does not imply that every project is a finished or commercially available product.
+
+## Design philosophy
+
+Read our [UI-to-UX Design Principle](UI-TO-UX-DESIGN-PRINCIPLE.md): the interface should support the complete user experience, not exist merely as decoration or a collection of screens.
+
+## Explore L.C.D.
+
+- [Selected projects](PROJECTS.md)
+- [About the company](ABOUT.md)
+- [UI-to-UX Design Principle](UI-TO-UX-DESIGN-PRINCIPLE.md)
+- [Public GitHub profile](https://github.com/LukaClarityDesign)
+- [WORKERCHECK.BE](https://workercheck.be)
 
 ## Languages
 
