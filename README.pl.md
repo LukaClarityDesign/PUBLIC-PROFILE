@@ -24,14 +24,13 @@ Luka Clarity Design to niezależna marka zajmująca się projektowaniem cyfrowym
 
 ## Projekty i inicjatywy
 
-L.C.D. jest marką nadrzędną dla portfolio niezależnych inicjatyw cyfrowych, technicznych i kreatywnych. Każdy projekt ma własny cel, odbiorców i etap rozwoju.
+L.C.D. jest marką nadrzędną dla niezależnych inicjatyw cyfrowych, technicznych i kreatywnych na różnych etapach rozwoju. Publiczny przegląd obejmuje projekty, które można opisać rzetelnie, bez przedstawiania koncepcji lub prototypów jako gotowych produktów.
 
-- **WORKERCHECK.BE** — aktywny projekt analizy belgijskich pasków wypłat: [workercheck.be](https://workercheck.be).
-- **Application Audit Framework (AAF)** — projekt dotyczący uporządkowanych audytów aplikacji i oceny jakości opartej na dowodach.
-- **IS(M) Burning Boyz** — niezależny projekt muzyczny i kreatywny.
-- **Departament IV bis** — autorska koncepcja gry z gatunku urban fantasy.
+- **WORKERCHECK.BE** — projekt analizy belgijskich pasków wypłat z publiczną stroną internetową: [workercheck.be](https://workercheck.be).
+- **Application Audit Framework (AAF)** — projekt eksploracyjny dotyczący uporządkowanych audytów aplikacji, oceny jakości opartej na dowodach i powtarzalnych kontroli. Masz aplikację lub pomysł, o którym warto porozmawiać? **Zapraszam do kontaktu.**
+- **Departament IV bis** — autorski świat urban fantasy, obecnie na etapie jego konstruowania.
 
-Inicjatywy pokazują różnorodność zainteresowań L.C.D. Ich obecność nie oznacza, że każdy projekt jest ukończonym lub komercyjnie dostępnym produktem.
+Obecność projektu na tej liście nie oznacza, że jest on ukończonym, certyfikowanym lub komercyjnie dostępnym produktem. Prywatne inicjatywy i wewnętrzne szczegóły prac nie są tutaj publikowane.
 
 ## Filozofia projektowania
 
