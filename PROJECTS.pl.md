@@ -4,9 +4,13 @@ L.C.D. skupia projekty na różnych etapach: koncepcje, prototypy, eksperymenty 
 
 ## WORKERCHECK.BE
 
-Projekt mający pomagać pracownikom w Belgii rozumieć paski wypłat i składniki wynagrodzenia. Zakładane podejście łączy analizę dokumentów z uporządkowaną weryfikacją względem właściwych belgijskich przepisów dotyczących pracy i płac. Wnioski prawne wymagają identyfikowalnych, wiarygodnych danych źródłowych oraz jawnego traktowania niepewności.
+**Strona internetowa:** [https://workercheck.be](https://workercheck.be)
 
-**Uwaga dotycząca statusu:** istnienie strony internetowej lub prototypu nie stanowi dowodu gotowości produkcyjnej, walidacji prawnej ani niezależnego zatwierdzenia bezpieczeństwa.
+Aktywny projekt z publiczną stroną internetową, którego celem jest pomaganie pracownikom w Belgii w rozumieniu pasków wypłat i składników wynagrodzenia. Aplikacja webowa udostępnia wersję MVP do wstępnej analizy dokumentów płacowych i wskazywania pozycji wymagających uwagi. Obsługuje języki polski, niderlandzki, angielski, ukraiński i rumuński.
+
+Projekt łączy analizę dokumentów z uporządkowaną weryfikacją względem właściwych belgijskich przepisów dotyczących pracy i płac. Wnioski prawne wymagają identyfikowalnych, wiarygodnych danych źródłowych oraz jawnego traktowania niepewności.
+
+**Status:** publiczna strona działa; aplikacja znajduje się na etapie MVP / release candidate. Nie jest przedstawiana jako certyfikowany silnik zgodności płacowej ani zamiennik profesjonalnej porady prawnej lub kadrowo-płacowej.
 
 ## Application Audit Framework (AAF)
 
