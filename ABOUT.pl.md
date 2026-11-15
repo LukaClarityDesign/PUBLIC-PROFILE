@@ -1,8 +1,10 @@
 # O Luka Clarity Design
 
-Luka Clarity Design (L.C.D.) to niezależna marka założona przez Bartosza Lukę. Łączy projektowanie cyfrowe, myślenie UX/UI, komunikację wizualną i eksperymentalne prace nad produktami wokół jednej idei: przejrzystości.
+Luka Clarity Design (L.C.D.) to niezależna marka założona przez **Bartosza Lukę**.
 
-Nazwa łączy imię założyciela — Luka — z ideą światła oraz projektową wartością clarity. Obietnicą marki jest rozjaśnianie złożonych pomysłów i przekładanie ich na zrozumiałe, użyteczne doświadczenia.
+Łączy projektowanie cyfrowe, myślenie UX/UI, komunikację wizualną i eksperymentalne prace nad produktami wokół jednej idei: przejrzystości.
+
+Nazwa łączy imię i nazwisko założyciela — Bartosz Luka — z ideą światła oraz projektową wartością clarity. Obietnicą marki jest rozjaśnianie złożonych pomysłów i przekładanie ich na zrozumiałe, użyteczne doświadczenia.
 
 ## Misja
 
