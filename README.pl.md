@@ -4,42 +4,46 @@
 
 Luka Clarity Design to niezależna marka zajmująca się projektowaniem cyfrowym i rozwojem produktów, założona przez **Bartosza Lukę**.
 
-## Wyróżniony projekt: WORKERCHECK.BE
+Łączymy projektowanie cyfrowe, myślenie UX/UI, komunikację wizualną i eksperymentalny rozwój produktów wokół jednej idei: przekładania złożonych zagadnień na rozwiązania przejrzyste, użyteczne i intuicyjne.
 
-<https://workercheck.be>
+> Cześć, jestem Luka. W projektowaniu graficznym i UX/UI najważniejsza jest dla mnie przejrzystość – dlatego nazwa mojej firmy łączy moje imię (wywodzące się od słowa „światło”) z ideą clarity. Pomagam firmom porządkować chaos i przekładać złożone pomysły na proste, intuicyjne produkty cyfrowe.
 
-**Aktywny belgijski projekt analizy pasków wypłat rozwijany przez L.C.D.**
+## Czym zajmuje się L.C.D.
 
-WORKERCHECK.BE pomaga pracownikom w Belgii rozumieć paski wypłat i identyfikować pozycje, które mogą wymagać uwagi. Aplikacja webowa udostępnia wersję MVP do wstępnej analizy dokumentów płacowych i obsługuje języki: polski, niderlandzki, angielski, ukraiński oraz rumuński.
+- **Projektowanie cyfrowe i UX/UI** — tworzenie przejrzystych, spójnych i użytecznych doświadczeń cyfrowych.
+- **Komunikacja wizualna** — przekładanie pomysłów i informacji na zrozumiałe systemy wizualne.
+- **Myślenie produktowe** — łączenie potrzeb użytkowników, celu i praktycznej realizacji.
+- **Technologia i eksperymenty** — badanie przemyślanych zastosowań oprogramowania, automatyzacji i AI.
 
-Projekt łączy analizę dokumentów z uporządkowaną weryfikacją względem właściwych belgijskich przepisów dotyczących pracy i wynagrodzeń. Jego celem jest ułatwienie zrozumienia skomplikowanych informacji płacowych oraz wyraźne odróżnianie ustaleń potwierdzonych od kwestii wymagających dalszej weryfikacji.
-
-**Aktualny status:** publiczna strona działa; aplikacja znajduje się na etapie MVP / release candidate. Nie jest przedstawiana jako certyfikowany silnik zgodności płacowej ani zamiennik profesjonalnej porady prawnej lub kadrowo-płacowej.
-
-[**Otwórz WORKERCHECK.BE →**](https://workercheck.be)
-
----
-
-## O L.C.D.
-
-Cześć, jestem Luka. W projektowaniu graficznym i UX/UI najważniejsza jest dla mnie przejrzystość – dlatego nazwa mojej firmy łączy moje imię (wywodzące się od słowa „światło”) z ideą clarity. Pomagam firmom porządkować chaos i przekładać złożone pomysły na proste, intuicyjne produkty cyfrowe.
-
-L.C.D. łączy projektowanie cyfrowe, myślenie UX/UI, komunikację wizualną i eksperymentalne prace nad produktami wokół jednej idei: przejrzystości.
-
-## Zasady pracy
+## Nasze podejście
 
 - **Najpierw przejrzystość** — informacje i interakcje powinny być łatwe do zrozumienia.
 - **Projektowanie z celem** — każdy element powinien pełnić określoną funkcję.
 - **Spójne systemy** — doświadczenie należy projektować jako całość, a nie zbiór oderwanych ekranów.
 - **Odpowiedzialna technologia** — technologia i AI powinny być wykorzystywane świadomie, z naciskiem na użyteczność, rzetelność i kontrolę człowieka.
 
-## Pozostałe wybrane inicjatywy
+## Projekty i inicjatywy
 
-L.C.D. rozwija również inne inicjatywy cyfrowe, kreatywne i eksperymentalne. Ich skrócony opis oraz aktualne etapy znajdziesz w sekcji [Wybrane projekty](PROJECTS.pl.md).
+L.C.D. jest marką nadrzędną dla portfolio niezależnych inicjatyw cyfrowych, technicznych i kreatywnych. Każdy projekt ma własny cel, odbiorców i etap rozwoju.
 
-## Zasada projektowa
+- **WORKERCHECK.BE** — aktywny projekt analizy belgijskich pasków wypłat: [workercheck.be](https://workercheck.be).
+- **Application Audit Framework (AAF)** — projekt dotyczący uporządkowanych audytów aplikacji i oceny jakości opartej na dowodach.
+- **IS(M) Burning Boyz** — niezależny projekt muzyczny i kreatywny.
+- **Departament IV bis** — autorska koncepcja gry z gatunku urban fantasy.
 
-Przeczytaj [UI-to-UX Design Principle](UI-TO-UX-DESIGN-PRINCIPLE.pl.md): projekt interfejsu powinien wspierać całe doświadczenie użytkownika, a nie być jedynie dekoracją lub zbiorem ekranów.
+Inicjatywy pokazują różnorodność zainteresowań L.C.D. Ich obecność nie oznacza, że każdy projekt jest ukończonym lub komercyjnie dostępnym produktem.
+
+## Filozofia projektowania
+
+Poznaj [UI-to-UX Design Principle](UI-TO-UX-DESIGN-PRINCIPLE.pl.md): interfejs powinien wspierać całe doświadczenie użytkownika, a nie być jedynie dekoracją lub zbiorem ekranów.
+
+## Poznaj L.C.D.
+
+- [Wybrane projekty](PROJECTS.pl.md)
+- [O firmie](ABOUT.pl.md)
+- [UI-to-UX Design Principle](UI-TO-UX-DESIGN-PRINCIPLE.pl.md)
+- [Publiczny profil GitHub](https://github.com/LukaClarityDesign)
+- [WORKERCHECK.BE](https://workercheck.be)
 
 ## Języki
 
