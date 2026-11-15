@@ -24,14 +24,13 @@ We bring together digital design, UX/UI thinking, visual communication and explo
 
 ## Projects and initiatives
 
-L.C.D. is the parent brand for a portfolio of independent digital, technical and creative initiatives. Each project has its own purpose, audience and stage of development.
+L.C.D. is the parent brand for independent digital, technical and creative initiatives at different stages of development. The public overview focuses on work that can be described accurately without presenting concepts or prototypes as finished products.
 
-- **WORKERCHECK.BE** — a live Belgian payslip-analysis project: [workercheck.be](https://workercheck.be).
-- **Application Audit Framework (AAF)** — a project exploring structured application audits and evidence-based quality assessment.
-- **IS(M) Burning Boyz** — an independent music and creative identity project.
-- **Departament IV bis** — an original urban-fantasy game concept.
+- **WORKERCHECK.BE** — a Belgian payslip-analysis project with a public website: [workercheck.be](https://workercheck.be).
+- **Application Audit Framework (AAF)** — an exploratory project focused on structured application audits, evidence-based quality assessment and reproducible checks. Have an application or an idea you'd like to discuss? **Let's talk.**
+- **Departament IV bis** — an original urban-fantasy setting currently in the worldbuilding phase.
 
-These initiatives demonstrate the range of L.C.D.'s interests. Their inclusion does not imply that every project is a finished or commercially available product.
+The inclusion of a project does not imply that it is a finished, certified or commercially available product. Private initiatives and internal development details are intentionally not listed.
 
 ## Design philosophy
 
