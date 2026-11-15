@@ -1,6 +1,8 @@
 # About Luka Clarity Design
 
-Luka Clarity Design (L.C.D.) is an independent brand founded by Bartosz Luka. It brings together digital design, UX/UI thinking, visual communication and exploratory product work under one guiding idea: clarity.
+Luka Clarity Design (L.C.D.) is an independent brand founded by **Bartosz Luka**.
+
+It brings together digital design, UX/UI thinking, visual communication and exploratory product work under one guiding idea: clarity.
 
 The name connects the founder's name, Luka, with the idea of light and the design value of clarity. The brand's promise is to illuminate complex ideas and turn them into understandable, useful experiences.
 
