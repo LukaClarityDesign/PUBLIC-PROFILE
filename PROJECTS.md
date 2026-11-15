@@ -4,9 +4,13 @@ L.C.D. brings together projects at different stages: concepts, prototypes, exper
 
 ## WORKERCHECK.BE
 
-A project focused on helping workers in Belgium understand their payslips and the components of their remuneration. The intended approach combines document analysis with structured checks against relevant Belgian employment and payroll rules. Legal conclusions require traceable authoritative data and explicit handling of uncertainty.
+**Website:** [https://workercheck.be](https://workercheck.be)
 
-**Status note:** the existence of a website or prototype should not be interpreted as proof of production readiness, legal validation or independent security approval.
+A live Belgian project focused on helping workers understand their payslips and the components of their remuneration. The web application provides an MVP for screening pay documents and highlighting items that may need attention. It supports Polish, Dutch, English, Ukrainian and Romanian.
+
+The project combines document analysis with structured checks against relevant Belgian employment and payroll rules. Legal conclusions require traceable authoritative data and explicit handling of uncertainty.
+
+**Status:** public website live; application at MVP / release-candidate stage. It is not presented as a certified payroll-compliance engine or as a substitute for professional legal or payroll advice.
 
 ## Application Audit Framework (AAF)
 
